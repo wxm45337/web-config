@@ -1,0 +1,25 @@
+{
+	// "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+  	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme_agila_horizontal_scrollbar_pink": true,
+	"theme_agila_horizontal_scrollbar_thinnest": true,
+	"theme_agila_modified_tab_marker_pink": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_selected_entry_pink": true,
+	"theme_agila_sidebar_small": true,
+	"theme_agila_vertical_scrollbar_pink": true,
+	"theme_agila_vertical_scrollbar_thinnest": true,
+    "line_padding_top": 2,                // top line height
+    "line_padding_bottom": 2,            // bottom line height
+
+	 "flatland_square_tabs": true,
+
+
+	"theme": "Flatland Dark.sublime-theme"
+  	// "theme": "Piatto Dark.sublime-theme"
+}
