@@ -1,0 +1,21 @@
+{	
+	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+	"flatland_square_tabs": true,
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Theme - Windows 10",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"theme": "Flatland Dark.sublime-theme",
+	"theme_agila_horizontal_scrollbar_pink": true,
+	"theme_agila_horizontal_scrollbar_thinnest": true,
+	"theme_agila_modified_tab_marker_pink": true,
+	"theme_agila_sidebar_font_xsmall": true,
+	"theme_agila_sidebar_selected_entry_pink": true,
+	"theme_agila_sidebar_small": true,
+	"theme_agila_vertical_scrollbar_pink": true,
+	"theme_agila_vertical_scrollbar_thinnest": true
+}
