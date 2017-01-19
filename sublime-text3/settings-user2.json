@@ -1,5 +1,5 @@
-{	
-	"color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+{
+	// "color_scheme":  "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
 	"flatland_square_tabs": true,
 	"font_size": 14,
 	"ignored_packages":
@@ -9,7 +9,8 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"theme": "Flatland Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
+	// "theme": "Flatland Dark.sublime-theme",
 	"theme_agila_horizontal_scrollbar_pink": true,
 	"theme_agila_horizontal_scrollbar_thinnest": true,
 	"theme_agila_modified_tab_marker_pink": true,
